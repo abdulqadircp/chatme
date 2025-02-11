@@ -1,4 +1,4 @@
-# PixelNet
+# ImageHive
 
 ## Overview
 This project aims to develop a Django-based backend for a social media platform similar to Instagram. The backend will handle user authentication, media uploads, user interactions, and API endpoints for frontend integration. It ensures scalability, security, and high performance for a seamless user experience.
